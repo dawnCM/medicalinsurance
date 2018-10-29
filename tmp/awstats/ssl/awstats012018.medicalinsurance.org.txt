@@ -1,0 +1,289 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201801 will be lost/reset.
+# Last config file used to build this data file was /home/medicalinsurance/tmp/awstats/ssl/awstats.medicalinsurance.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2029                
+POS_TIME 2690                
+POS_VISITOR 7088                
+POS_DAY 7497                
+POS_DOMAIN 3354                
+POS_LOGIN 3624                
+POS_ROBOT 3779                
+POS_WORMS 4216                
+POS_EMAILSENDER 4347                
+POS_EMAILRECEIVER 4490                
+POS_SESSION 7862                
+POS_SIDER 8020                
+POS_FILETYPES 4625                
+POS_DOWNLOADS 4795                
+POS_OS 4843                
+POS_BROWSER 4987                
+POS_SCREENSIZE 5161                
+POS_UNKNOWNREFERER 5235                
+POS_UNKNOWNREFERERBROWSER 5724                
+POS_ORIGIN 5806                
+POS_SEREFERRALS 5939                
+POS_PAGEREFS 6094                
+POS_SEARCHWORDS 6355                
+POS_KEYWORDS 6507                
+POS_MISC 2354                
+POS_ERRORS 6566                
+POS_CLUSTER 3480                
+POS_SIDER_404 6658                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180201002237 9 1091 9471883978574
+FirstTime 0
+LastTime 20180129160616
+LastUpdate 20180201070509 9 0 8 0 0
+TotalVisits 20                  
+TotalUnique 8                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 9                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 4 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 19478 5 9 636239
+1 0 0 0 6 13 1117343
+2 0 0 0 6 7 224399
+3 0 0 0 2 4 190854
+4 1 1 9739 5 7 301873
+5 0 0 0 6 15 1129849
+6 3 3 26299 6 16 1501662
+7 0 0 0 5 9 687305
+8 0 0 0 8 13 636070
+9 0 0 0 8 11 559050
+10 1 1 9739 15 28 1903455
+11 1 1 9739 8 11 559470
+12 0 0 0 6 8 412192
+13 2 2 19478 5 8 516323
+14 0 0 0 4 9 524036
+15 1 1 6450 6 10 643524
+16 2 2 19478 3 8 727481
+17 0 0 0 5 16 714108
+18 3 3 29217 3 4 184888
+19 3 3 29217 5 9 623935
+20 4 24 814990 8 12 691011
+21 0 0 0 7 9 253353
+22 3 3 29217 7 14 1031677
+23 1 1 9739 8 12 729756
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 13 13 123689
+de 12 12 116868
+fr 1 1 6450
+ru 1 21 785773
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bingbot/ 77 1283072 20180131125136 0
+bot[\s_+:,\.\;\/\\-] 39 376903 20180111070526 0
+no_user_agent 21 500829 20180131232226 0
+YandexBot/ 12 116868 20180131104649 0
+YandexImages/ 7 253420 20180123144509 0
+robot 4 36038 20180111045958 0
+AhrefsBot/ 3 29217 20180127221147 0
+netcraft 2 19478 20180109105515 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 3 332496 0 0
+jpg 1 174143 0 0
+png 9 105996 0 0
+html 24 233736 0 0
+Unknown 3 23010 0 0
+js 7 163399 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+Unknown 12 12
+macosx12 6 6
+macosx 3 3
+win8.1 3 3
+win7 21 1
+linux 1 1
+win10 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+mozilla 3 3
+chrome50.0.2661.102 1 1
+chrome37.0.2049.0 3 3
+netscape5.0 9 9
+chrome61.0.3163.100 30 10
+chrome34.0.1847.137 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_zgrab/0.x_--_We_are_scanning_for_research,_further_information_at_http://researchscan.comsys.rwth-aachen.de/_-- 20180118225516
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13l;__http://researchscan.comsys.rwth-aachen.de) 20180125185610
+Mozilla/5.0_zgrab/0.x 20180111203632
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12l;__http://researchscan.comsys.rwth-aachen.de) 20180125194058
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 25
+From1 0 0
+From2 1 1
+From3 1 1
+From4 0 20
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.ebay.com/itm/Tibetan-Dr-Yontens-Best-Quality-Pure-Herbal-Healing-Incense-6-Inch-Box-/232159183315 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 93 13823684
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/images/alcoholism.jpg 1 -
+/images/wall/offer01.jpg 1 -
+/robots.txt 87 -
+/images/traffic.png 2 -
+/images/ls_logo.png 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 9
+54.183.130.127 9 9 87651 20180129160616
+137.226.113.28 5 5 48695 20180118225516
+137.226.113.27 4 4 38956 20180125194058
+34.241.42.92 3 3 26299 20180104065133
+137.226.113.26 3 3 29217 20180125185610
+95.28.166.52 1 16 445785 20180101202453
+94.23.45.37 1 1 6450 20180112151341
+71.6.165.200 1 1 9739 20180115202259
+95.220.103.85 0 5 339988 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20180101 1 21 785773 1
+20180102 1 1 9739 1
+20180104 4 4 36038 2
+20180105 3 3 29217 2
+20180108 1 1 9739 1
+20180111 4 4 38956 3
+20180112 1 1 6450 1
+20180114 1 1 9739 1
+20180115 1 1 9739 1
+20180118 3 3 29217 1
+20180119 1 1 9739 1
+20180123 1 1 9739 1
+20180125 3 3 29217 2
+20180126 1 1 9739 1
+20180129 1 1 9739 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 19
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 24 233736 19 18
+/short-term-health-insurance 2 12900 1 2
+/application 1 10110 0 0
+END_SIDER

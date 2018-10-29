@@ -1,0 +1,333 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201808 will be lost/reset.
+# Last config file used to build this data file was /home/medicalinsurance/tmp/awstats/ssl/awstats.medicalinsurance.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2029                
+POS_TIME 2704                
+POS_VISITOR 7413                
+POS_DAY 8527                
+POS_DOMAIN 3426                
+POS_LOGIN 3728                
+POS_ROBOT 3883                
+POS_WORMS 4285                
+POS_EMAILSENDER 4416                
+POS_EMAILRECEIVER 4559                
+POS_SESSION 9164                
+POS_SIDER 9323                
+POS_FILETYPES 4694                
+POS_DOWNLOADS 4813                
+POS_OS 4861                
+POS_BROWSER 5054                
+POS_SCREENSIZE 5457                
+POS_UNKNOWNREFERER 5531                
+POS_UNKNOWNREFERERBROWSER 6131                
+POS_ORIGIN 6213                
+POS_SEREFERRALS 6345                
+POS_PAGEREFS 6489                
+POS_SEARCHWORDS 6701                
+POS_KEYWORDS 6853                
+POS_MISC 2368                
+POS_ERRORS 6912                
+POS_CLUSTER 3584                
+POS_SIDER_404 7017                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180901035957 9 1259 10505566263001
+FirstTime 20180801050801
+LastTime 20180831160943
+LastUpdate 20180901080509 9 0 8 0 0
+TotalVisits 74                  
+TotalUnique 27                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 27                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 2 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 13 218915 9 16 1092943
+1 4 4 38956 7 15 949627
+2 2 2 9739 5 10 831372
+3 3 3 26299 5 13 1292139
+4 9 9 87651 8 15 1235691
+5 11 11 107500 13 23 1695411
+6 4 4 25928 9 15 1168117
+7 7 7 58434 13 20 1216266
+8 3 3 29217 4 8 645796
+9 3 3 29217 9 35 1551219
+10 3 3 19478 9 16 1164170
+11 2 2 19478 9 16 1183161
+12 3 3 19478 7 17 1383039
+13 0 0 0 7 11 694737
+14 0 0 0 12 25 1978460
+15 1 1 9739 5 23 1739714
+16 4 4 38956 8 14 847099
+17 3 3 9739 8 23 1195290
+18 3 3 9739 10 17 1102957
+19 0 0 0 6 10 685070
+20 2 2 19478 1 5 484113
+21 3 3 29217 5 14 797077
+22 3 3 6450 12 20 1230251
+23 2 2 19478 6 9 398714
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 49 56 595447
+de 20 20 146085
+pl 6 6 52598
+gb 2 2 0
+ca 2 2 19478
+hk 1 1 9739
+ro 1 1 9739
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+Googlebot/ 116 2622041 20180831070956 0
+bingbot/ 68 1195421 20180831191944 0
+YandexBot/ 25 243475 20180829050442 0
+bot[\s_+:,\.\;\/\\-] 9 87651 20180831214032 0
+AhrefsBot/ 6 55516 20180828030547 0
+MJ12bot/ 5 45777 20180831225545 0
+no_user_agent 3 71547 20180813063600 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+js 7 163399 0 0
+html 74 613557 0 0
+Unknown 7 56130 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+macosx11 10 3
+Unknown 23 23
+winxp 1 1
+win10 31 31
+macosx8 1 1
+win8 1 1
+macosx10 2 2
+win7 7 7
+linux 2 2
+win8.1 1 1
+macosx12 9 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 16
+chrome40.0.2214.85 5 5
+firefox61.0 1 1
+chrome37.0.2049.0 1 1
+chrome61.0.3163.100 9 9
+chrome44.0.2403.89 1 1
+chrome66.0.3359.117 6 6
+chrome31.0.1650.16 1 1
+chrome28.0.1468.0 1 1
+chrome34.0.1847.137 2 2
+firefox52.0 10 3
+chrome27.0.1453.93 1 1
+chrome30.0.1599.17 1 1
+chrome66.0.3359.181 24 24
+chrome37.0.2062.124 1 1
+chrome50.0.2661.102 1 1
+mozilla 23 23
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20180824091702
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20180831160943
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20180830211958
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20180818062846
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180811113627
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 80 87
+From1 0 0
+From2 0 0
+From3 1 1
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://www.personalloans.org/tag/unsecured-personal-loans/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 145 22207291
+421 11 3542
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/mcdonald-menu-items/ 2 -
+/robots.txt 136 -
+/.well-known/security.txt 1 -
+/ads.txt 6 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 27
+137.226.113.28 10 10 97390 20180830211958
+35.162.70.167 9 9 87651 20180827171933
+13.57.233.99 9 9 87651 20180830041722
+52.41.211.72 8 8 77912 20180830205240
+52.34.24.33 7 7 68173 20180825213027
+138.246.253.5 5 5 0 20180830062652
+194.187.170.136 4 4 33120 20180818062846
+35.233.88.71 3 10 189698 20180812002148
+137.226.113.27 3 3 29217 20180831160943
+137.226.113.26 2 2 19478 20180819093201
+159.203.30.234 2 2 0 20180811170559
+128.199.41.47 2 2 0 20180820225943
+194.187.170.128 2 2 19478 20180815070345
+165.227.46.187 2 2 0 20180828180547
+198.143.158.178 1 1 9739 20180826072404
+107.6.171.134 1 1 9739 20180810231212
+107.6.183.226 1 1 9739 20180827072051
+109.166.152.146 1 1 9739 20180809154050
+198.143.133.158 1 1 9739 20180828003618
+142.93.77.45 1 1 9739 20180811113503
+66.240.192.138 1 1 9739 20180812182435
+107.6.171.131 1 1 9739 20180813015904
+184.154.189.91 1 1 9739 20180812165932
+71.6.165.200 1 1 9739 20180810084006
+142.93.77.214 1 1 9739 20180811113627
+103.255.254.135 1 1 9739 20180810004021
+104.223.76.180 1 1 6450 20180824221354
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20180801 1 1 9739 1
+20180802 4 4 29217 4
+20180803 1 1 9739 1
+20180804 2 2 19478 2
+20180805 1 1 9739 1
+20180806 2 2 19478 2
+20180807 2 2 19478 2
+20180808 3 3 19478 3
+20180809 2 2 19478 2
+20180810 5 5 48695 5
+20180811 7 7 48695 6
+20180812 7 14 228654 5
+20180813 3 3 29217 3
+20180814 1 1 9739 1
+20180815 3 3 19478 2
+20180816 1 1 9739 1
+20180818 6 6 52598 5
+20180819 2 2 19478 2
+20180820 4 4 19478 3
+20180821 1 1 9739 1
+20180822 2 2 9739 2
+20180824 6 6 55145 6
+20180825 1 1 9739 1
+20180826 1 1 9739 1
+20180827 4 4 38956 4
+20180828 4 4 19478 3
+20180830 4 4 29217 4
+20180831 1 1 9739 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+15mn-30mn 2
+0s-30s 72
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 74 613557 70 69
+/short-term-health-insurance 4 25800 2 4
+/application 3 30330 2 1
+END_SIDER

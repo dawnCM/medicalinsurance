@@ -1,0 +1,1635 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201802 will be lost/reset.
+# Last config file used to build this data file was /home/medicalinsurance/tmp/awstats/awstats.medicalinsurance.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2025                
+POS_TIME 2712                
+POS_VISITOR 41349               
+POS_DAY 53322               
+POS_DOMAIN 3765                
+POS_LOGIN 4397                
+POS_ROBOT 4552                
+POS_WORMS 6688                
+POS_EMAILSENDER 6819                
+POS_EMAILRECEIVER 6962                
+POS_SESSION 54245               
+POS_SIDER 54454               
+POS_FILETYPES 7097                
+POS_DOWNLOADS 7363                
+POS_OS 7411                
+POS_BROWSER 7786                
+POS_SCREENSIZE 9620                
+POS_UNKNOWNREFERER 9694                
+POS_UNKNOWNREFERERBROWSER 10880               
+POS_ORIGIN 11674               
+POS_SEREFERRALS 11821               
+POS_PAGEREFS 12047               
+POS_SEARCHWORDS 12905               
+POS_KEYWORDS 13164               
+POS_MISC 2374                
+POS_ERRORS 13330               
+POS_CLUSTER 4253                
+POS_SIDER_404 13463               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180301000010 1257 134761 3933132053106
+FirstTime 20180201000026
+LastTime 20180228235910
+LastUpdate 20180301070358 1257 0 1256 0 0
+TotalVisits 436                 
+TotalUnique 259                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 325                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 133 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1698 1767 19466481 170 235 28514947
+1 1695 1744 19028357 151 219 23141842
+2 1698 1757 19220786 196 276 27683283
+3 1695 1733 17709315 179 252 22530721
+4 1678 1678 16326467 207 266 25631770
+5 1679 1699 17344599 193 263 27908895
+6 1695 1799 20592949 145 204 24568517
+7 1695 1790 19982580 157 231 26375437
+8 1689 1729 18191251 184 257 30084864
+9 1683 1745 18901938 137 195 23718437
+10 1716 1810 20295301 151 223 28521166
+11 1699 1783 19734997 181 279 29364425
+12 1714 1794 19472361 171 270 30957008
+13 1700 1809 20505144 219 302 34371216
+14 1698 1780 19867048 147 242 28737492
+15 1696 1808 20693350 137 206 25381834
+16 1693 1776 19839742 151 225 28119834
+17 1711 1781 19197542 190 249 30924643
+18 1692 1722 17982041 156 215 27823644
+19 1690 1709 17059765 140 222 25104247
+20 1698 1771 19780658 192 266 33178498
+21 1703 1783 19450391 174 245 25400631
+22 1692 1731 17862098 170 225 26074047
+23 1692 1712 17475379 140 198 24739180
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+zz 40010 40010 389657390
+us 392 1247 35741847
+cn 78 261 9754902
+ru 44 223 8664437
+il 32 32 301909
+de 24 46 997816
+ua 20 50 705896
+in 15 55 1716830
+fr 12 12 111032
+gb 7 60 1926572
+ca 7 7 65255
+id 7 47 1627080
+hk 6 6 58434
+ro 6 47 1855436
+au 6 44 1316168
+mx 5 28 1049281
+dk 5 5 48695
+pl 4 4 33120
+nl 4 4 38956
+it 4 4 38956
+lt 3 3 29217
+kr 2 9 182877
+pk 1 1 9739
+ph 1 1 9739
+tr 1 1 9739
+bg 1 1 9739
+cz 1 1 9739
+br 1 1 9739
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 51
+Feedfetcher\-Google 181 1762759 20180228221043 0
+Googlebot/ 176 8642603 20180228214723 0
+bingbot/ 115 1527743 20180228235146 0
+360Spider 90 876510 20180228214336 0
+Baiduspider/ 74 1730058 20180228132709 0
+DotBot/ 59 507753 20180226225330 0
+MJ12bot/ 58 561944 20180228034932 0
+YandexBot/ 58 563728 20180228133705 0
+bot[\s_+:,\.\;\/\\-] 56 531923 20180228172433 0
+no_user_agent 37 844454 20180228144400 0
+java 37 613903 20180226142216 0
+crawl 35 310700 20180228231529 0
+curl 32 296073 20180224053327 0
+SEOkicks\-Robot 28 1704060 20180227133010 0
+link 28 0 20180228023716 0
+SemrushBot/ 24 216970 20180227122221 0
+Gluten[\x20]Free[\x20]Crawler/ 23 221079 20180219024053 0
+(firefox/)([0-9]\.|[0-1][0]\.) 18 136346 20180224210751 0
+AhrefsBot/ 17 566150 20180223145000 0
+SeznamBot/ 9 71948 20180228163734 0
+Python\-urllib/ 9 997488 20180223022028 0
+CCBot/ 9 82186 20180222111202 0
+spbot/ 9 78897 20180219122733 0
+Uptimebot/ 7 19478 20180228071519 0
+Yahoo![\x20]Slurp 7 59419 20180221095031 0
+DuckDuckGo\-Favicons\-Bot/ 2 19478 20180214163636 0
+nutch 1 9739 20180222101025 0
+Findxbot/ 1 9739 20180204000549 0
+Xenu[\x20]Link[\x20]Sleuth 2 0 20180216184226 0
+LinkCheck 2 19478 20180226050150 0
+Apache\-HttpClient/ 1 9739 20180201141732 0
+DomainStatsBot/ 4 26299 20180213012744 0
+SurveyBot/ 1 9739 20180212164852 0
+MojeekBot/ 3 26299 20180221044931 0
+oBot/ 2 19478 20180213110952 0
+GarlikCrawler/ 4 36038 20180222145507 0
+SafeDNSBot 1 6450 20180214083310 0
+spider 6 58434 20180222024530 0
+Cliqzbot/ 1 9739 20180208174622 0
+DeuSu/ 1 9739 20180213023425 0
+Mail\.RU_Bot/ 1 9739 20180202072820 0
+bingpreview 1 9739 20180227073457 0
+SurdotlyBot/ 3 29217 20180210214841 0
+netEstate[\x20]NE[\x20]Crawler 4 36038 20180228023923 0
+Screaming[\x20]Frog[\x20]SEO[\x20]Spider/ 3 29217 20180226094300 0
+seek 1 9739 20180203153028 0
+Applebot/ 2 19478 20180224044242 0
+CRAZYWEBCRAWLER 1 9739 20180223124521 0
+facebookexternalhit/ 2 16489 20180223135215 0
+istellabot/ 1 9739 20180227061726 0
+Googlebot\-Image/ 2 0 20180228122748 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+eot 11 221397 0 0
+jpg 94 9646559 0 0
+php 1 9739 0 0
+Unknown 169 1327892 0 0
+html 40451 393621163 0 0
+woff 22 515328 0 0
+css 267 29524836 0 0
+png 509 5529329 0 0
+woff2 45 793232 0 0
+js 641 14791065 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+win2003 6 3
+ios_ipad 44 4
+macosx12 95 29
+macosx5 1 1
+macosx7 1 1
+macosx11 23 3
+unix 22 2
+winunknown 1 1
+winlong 3 3
+ios_iphone 247 49
+win10 393 81
+win7 526 136
+linux 92 23
+linuxandroid 217 25
+Unknown 40243 40236
+win2000 6 6
+winnt 34 34
+win8.1 29 9
+win8 25 9
+winxp 21 8
+macosx10 49 9
+macosx 131 26
+macosx9 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 90
+chrome38.0.1025.166 20 1
+chrome63.0.3239.111 23 4
+chrome62.0.3202.89 3 3
+chrome58.0.3029.96 1 1
+netscape 4 4
+chrome34.0.1847.137 3 3
+firefox53.0 2 2
+firefox21.0 3 3
+firefox26.0 2 2
+safari11.0.3 44 4
+chrome47.0.2526.106 1 1
+firefox47.0 27 5
+chrome34.0.1847.131 2 2
+chrome31.0.1650.16 1 1
+firefox57.0 3 3
+chrome26.0.1410.33 21 1
+chrome63.0.3239.132 179 37
+firefox32.1 1 1
+chrome58.0.3029.81 1 1
+chrome59.0.3071.115 1 1
+msie11.0 26 6
+chrome51.0.2704.84 1 1
+firefox52.0 3 3
+chrome10.0.648.133 5 5
+chrome41.0.2228.0 10 3
+opera44.0.2510.857 1 1
+firefox34.0 4 4
+chrome52.0.2743.116 1 1
+msie9.0 22 22
+msie10.0 46 10
+firefox40.1 12 12
+firefox43.0 215 32
+firefox24.0 8 8
+msie5.01 1 1
+chrome38.0.2125.122 1 1
+chrome63.0.3239.84 21 1
+chrome64.0.3282.167 75 10
+firefox18.0 1 1
+safari4.0 1 1
+safari 54 5
+firefox55 26 4
+chrome55.0.2883.91 21 2
+chrome43.0.2376.69 40 10
+chrome60.0.3112.113 2 2
+safari11.0 158 21
+chrome56.0.2924.87 22 3
+firefox55.0 2 2
+chrome32.0.1700.76 23 3
+chrome58.0.3029.110 2 2
+chrome40.0.847.0 1 1
+chrome54.8.3063.9336 1 1
+chrome32.0.1667.0 1 1
+chrome45.0.2454.94 1 1
+firefox34.1 1 1
+minefield 1 1
+mozilla 14 14
+firefox39.0 1 1
+chrome61.0.3163.100 11 11
+Unknown 40226 40219
+msie6.1 31 31
+msie6.0 2 2
+chrome57.0.2987.110 1 1
+firefox48.0 1 1
+chrome63.0.3239.140 22 2
+firefox31.0 4 4
+firefox56.0 49 8
+chrome64.0.3282.137 131 15
+chrome23.0.1271.64 4 4
+chrome46.0.2490.80 1 1
+firefox41.0 24 4
+chrome36.0.873.0 1 1
+firefox36.0 2 2
+chrome62.0.3202.94 4 4
+chrome64.0.3282.186 22 2
+safari9.0 59 18
+msie8.0 109 16
+chrome55.0.2883.95 1 1
+chrome64.0.3282.140 66 10
+chrome13.0.782.220 1 1
+chrome15.0.874.120 1 1
+msie7.0 11 8
+safari7.0 21 2
+firefox45.0 1 1
+firefox58.0 154 29
+safari10.0 53 12
+safari10.1.2 23 3
+firefox50.0 3 3
+chrome57.0.2987.133 1 1
+firefox29.0 2 2
+chrome10.0.648.204 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 23
+ltx71_-_(http://ltx71.com/) 20180219045153
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180212070843
+EDS_EXIF/1.0_(https://www.exif-search.com) 20180226130138
+Scrapy/1.1.1_(_http://scrapy.org) 20180202042108
+Mozilla 20180209101213
+Scrapy/1.5.0_(_https://scrapy.org) 20180223002725
+http_requester/0.1 20180221110208
+ia_archiver 20180226172539
+Photon/1.0 20180212020348
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180202145746
+Mozilla/5.0_(compatible;_Go-http-client/1.1;__centurybot9@gmail.com) 20180204130624
+G-i-g-a-b-o-t 20180209022042
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20180227203816
+A6-Indexer 20180211125146
+isc_header_collector_handlers@isc.sans.edu 20180216074856
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20180216123848
+Zabbix 20180228235910
+Python/3.5_aiohttp/2.0.2 20180225213214
+Go-http-client/1.1 20180217221427
+null 20180210202652
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20180214135917
+scalaj-http/1.0 20180228172221
+Mozilla/5.0_(compatible;_ips-agent) 20180205165311
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 17
+isc_header_collector_handlers@isc.sans.edu 20180216074856
+Zabbix 20180228235910
+Photon/1.0 20180212020348
+G-i-g-a-b-o-t 20180209022042
+A6-Indexer 20180211125146
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20180227203816
+null 20180210202652
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20180214135917
+scalaj-http/1.0 20180228172221
+Go-http-client/1.1 20180217221427
+Python/3.5_aiohttp/2.0.2 20180225213214
+ltx71_-_(http://ltx71.com/) 20180219045153
+EDS_EXIF/1.0_(https://www.exif-search.com) 20180226130138
+Scrapy/1.5.0_(_https://scrapy.org) 20180223002725
+http_requester/0.1 20180221110208
+ia_archiver 20180226172539
+Scrapy/1.1.1_(_http://scrapy.org) 20180202042108
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 40467 40504
+From1 2 2
+From2 35 35
+From3 39 39
+From4 156 1630
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google_com 2 2
+www_google_co_in 1 1
+www_google_com 3 3
+yandexru 12 12
+baidu 17 17
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 16
+https://april-perez.com 9 9
+https://friendseat.com/blog 5 5
+http://www.pomoc-drogowa-gorzow.com 5 5
+http://webextractb.profound.net/index.php/work/15589672 4 4
+https://www.business.com/misc/insurance/ 2 2
+https://marijuanacannabis.wordpress.com/tag/marijuana/ 2 2
+http://socksonanoctopus.com/greatest-nhl-player-ever-wayne-gretzky-vs-mario-lemieux-infographic/ 2 2
+http://levenside.com 2 2
+http://www.dirmania.org 1 1
+http://data.vtc.pw/data.html 1 1
+http://blog.mariobadescu.com/beauty-infographics/ 1 1
+http://pacificair.com 1 1
+http://www.coolinfographics.nl 1 1
+https://www.timer4web.com 1 1
+http://lasombra.blogs.com/la_sombra_del_asno/comic/ 1 1
+http://macroblog.typepad.com/macroblog/productivity/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 17
+ujb 1
+rqo 1
+yu51 1
+967 1
+x4v 1
+leu 1
+0uxd 1
+uw7 1
+cnn3 1
+g1q 1
+ujv 1
+ldm 1
+aev 1
+atu 1
+aaqy 1
+h75 1
+xv4 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 17
+g1q 1
+atu 1
+ldm 1
+aev 1
+ujv 1
+aaqy 1
+h75 1
+xv4 1
+yu51 1
+ujb 1
+rqo 1
+967 1
+uw7 1
+cnn3 1
+x4v 1
+leu 1
+0uxd 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+500 34 3618940
+404 4343 629874843
+406 2 19478
+206 4 8443
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 748
+/news/feed/ 1 -
+/tag/doctors-blogs/feed/ 3 -
+/img-sys/IP_changed.png 1 -
+/wp-content/uploads/2010/07/doctor-and-baby-list.jpg 1 -
+/application/https://global.leadstudio.com/contactmed 1 -
+/50-inspiring-blogs-written-about-living-with-medical-conditions/ 2 -
+/search/+/page/2/ 1 -
+/tag/mammograms/feed/ 1 -
+/dexter-killer/feed/ 3 -
+/guide/insurance-risk-pools/feed/ 3 -
+/page/7/ 2 -
+/drugs-sex-facts 2 -
+/favicon.png 1 -
+/images/orgasms.jpg 63 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 -
+/guide/short-term-medical-insurance/ 1 -
+/https://global.leadstudio.com/privacy 2 -
+/macn 5 -
+/4-things-you-must-do-when-hiring-a-medical-contract-manufacturer/feed/ 2 -
+/uncategorized/page/3/ 2 -
+/cigarette-laws/ 6 -
+/wp-content/plugins/google-maps-by-daniel-martyn/inuse.php 1 -
+/your-salad-is-worse-than-the-kfc-double-down/ 5 -
+/marcbymarcjacobshandbags2015.com/ 5 -
+/search/%2525252525252525252525252B/ 2 -
+/tag/health-insurance/feed/ 2 -
+/choosing-medical-insurance-quotes/ 8 -
+/death-facts 3 -
+/the-definitive-guide-to-medical-insurance/cobra-insurance/ 2 -
+/candy-jar-makeover/ 2 -
+/50-articles-on-what-you-should-know-about-your-medical-insurance-coverage-before-undergoing-surgery/ 2 -
+/wp-content/uploads/2010/05/med-school.jpg 2 -
+/tag/denied-medical-insurance/feed/ 1 -
+/tailgating-tips/feed/ 3 -
+/fastfood/ 13 -
+/tag/students/feed/ 2 -
+/flaccid-trut/ 16 https://www.kinkly.com/
+/malpractice-claims-and-your-medical-insurance/ 3 -
+/https://global.leadstudio.com/termsmedical 2 -
+/health-care-reform-and-small-business/ 4 -
+/history-makeup/ 13 -
+/search/%2525252B/ 3 -
+/guide/medical-insurance-glossary/ 1 -
+/js/plugins/)!==location.host 2 -
+/wp-content/uploads/2010/11/eating-disorders.jpg 1 -
+/do-businesses-have-to-provide-medical-insurance-to-employees/ 3 -
+/apple-touch-icon.png 6 -
+/deep-discounts-on-hospital-bills/feed/ 3 -
+/appealing-a-denial-of-service/feed/ 2 -
+/how-to-get-healthy-16-tips/ 8 -
+/where-to-get-medical-insurance/ 1 -
+/truth-about-alcoholism/ 43 -
+/cigarette-laws 2 -
+/hsas-a-new-safety-blanket/ 3 -
+/more-than-just-claims-payment/ 2 -
+/mcdonald-menu-items/ 17 http://www.geographypods.com/7-global-interactions-at-the-local-level.html
+/wp-content/uploads/2012/07/superfoods.jpg 1 -
+/wp-admin/plugin-editor.php 1 -
+/guide/medical-insurance-buying-tips/ 5 -
+/tag/anorexia-signs/ 2 -
+/biometric-technology-to-replace-insurance-cards/ 2 -
+/out-of-network-care-in-a-managed-care-world/ 2 -
+/guide/private-medical-insurance/ 2 -
+/wp-content/plugins/cardoza-facebook-like-box/cardoza_facebook_like_box.php 1 -
+/wp-content/uploads/download-manager-files/%3C!DOCTYPE%20html%3E_%3Chtml%3E_%3Chead%3E_%20%20%20%20%3Cmeta%20charset=%22utf-8%22/%3E%20%20%20%20%3Cmeta%20name=%22viewport%22%20content=%22width=device-width,%20initial-scale=1.0%22%3E_%20%20%20%20%3Ctitle%3E 1 -
+/stories/ 2 -
+/js/plugins/'+this.addTrailingSlash(a)+'embed 2 -
+/tag/anorexia-advice/feed/ 3 -
+/wp-content/uploads/2010/05/keyboard-doctor.jpg 10 -
+/js/bootstrap/)[this.options.html 2 -
+/fastfood-history/ 14 -
+/drunk-history-getting-drunk/feed/ 2 -
+/top-ten-stress-reducers/ 4 -
+/wp-content/uploads/2010/11/inscomp640.jpg 1 -
+/how-to-catch-cancer-early/ 1 -
+/guide-halloween-candy/ 16 -
+/tag/lower-your-medical-costs/feed/ 1 -
+/tag/bad-tattoo-experiences/ 1 -
+/47-excellent-aspergers-support-blogs/feed/function.call-user-func-array 2 -
+/has/feed/ 1 -
+/wp-content/uploads/user_uploads/xjzgY.php.png 1 -
+/toning-fitness-shoes/feed/ 2 -
+/guide/family-medical-insurance/ 3 -
+/tag/medical-insurance-tips/feed/ 4 -
+/the-definitive-guide-to-medical-insurance/types-of-medical-insurance/ 2 -
+/core/CHANGELOG.txt 2 -
+/wp-content/plugins/gallery-slider/register.php 1 -
+/tag/anorexia/ 2 -
+/tag/infographic/ 2 -
+/wp-content/plugins/sharexy/ajaxresponder.php 1 -
+/electronic-cigarette-better-than-real-cigarettes/feed 1 -
+/the-definitive-guide-to-medical-insurance/self-employed-medical-insurance/ 2 -
+/how-to-make-medical-insurance-affordable/ 2 -
+/bizarre-contraceptives/ 6 -
+/toilet-related-incidents/feed/ 2 -
+/small-business-medical-insurance/ 2 -
+/xmlrpc.php 3 -
+/secret-fast-food-menus/feed/ 2 -
+/uncategorized/ 2 -
+/guide/individual-medical-insurance/feed/ 3 -
+/villa-club.fr/ 5 -
+/geography-of-sex/ 5 -
+/tag/denied-payment/feed/ 1 -
+/tag/med-student-blogs/ 1 -
+/search/%2B/page/4/ 2 -
+/42-top-notch-little-known-medical-blogs/ 3 -
+/tag/medical-students/feed/ 3 -
+/universal-health-care/feed/ 1 -
+/modules/homepageadvertise2/uploadimage.php 2 -
+/tag/orgasms/ 3 -
+/nhl-goa 3 -
+/search/+/page/6/ 1 -
+/origins-nfl/ 15 -
+/geography-of-sex 1 -
+/52-blogs-run-by-doctors-or-nurses-offering-medical-advice-and-stories/+0/ 1 http://www.medicalinsurance.org/52-blogs-run-by-doctors-or-nurses-offering-medical-advice-and-stories/+0/
+/the-truth-about-alcoholism/%E2%80%9D%3E%3Cimg 2 -
+/who-should-decide-what-medical-treatments-we-receive/ 3 -
+/wp-login.php 14 -
+/tag/information-on-prescription-drugs/feed/ 3 -
+/the-definitive-guide-to-medical-insurance/medical-insurance-faq/ 2 -
+/paid-sick-days/feed/ 1 -
+/tag/aspergers-support/feed/ 2 -
+/wp-content/plugins/font-uploader/font-upload.php 1 -
+/drugs-sex-facts/ 7 -
+/healthiest-people-in-world 1 -
+/modules/advancedslider/ajax_advancedsliderUpload.php 2 -
+/js/plugins/).html(d|| 2 -
+/img-sys/server_misconfigured.png 1 -
+/marijuana-health-facts/feed 1 -
+/the-truth-about-orgasms/ 34 http://m.facebook.com
+/infographics/feed/ 1 -
+/tag/medical-insurance-while-traveling/feed/ 2 -
+/wp-admin/admin-ajax.php 8 -
+/wp-admin/post.php 1 -
+/49-stories-about-anorexia/feed/ 2 -
+/health-insurance-deduction/feed/ 2 -
+/tag/medical-insurance-information/feed/ 2 -
+/origins-nfl 3 -
+/&query=Java 2 http://www.baidu.com/s
+/the-truth-about-orgasms/feed/ 2 -
+/laughter-medicine/ 10 -
+/tag/no-smoking-discount/feed/ 1 -
+/search/+/ 2 -
+/tag/information-on-prescription-drugs/ 2 -
+/52-blogs-run-by-doctors-or-nurses-offering-medical-advice-and-stories/ 41 -
+/wp-content/uploads/2012/12/flaccidtruth.png 9 -
+/tag/medical-blogs/ 2 -
+/modules/fieldvmegamenu/ajax/upload.php 2 -
+/category/medical-savings-accounts/ 2 -
+/truth-about-alcoholism/feed/ 2 -
+/the-definitive-guide-to-medical-insurance/student-medical-insurance/ 2 -
+/42-posts-of-medical-information-and-what-to-look-for-when-choosing-a-doctor/feed/ 1 -
+/guide-halloween-candy/feed/ 1 -
+/search/+/page/3/ 1 -
+/tag/anorexia/feed/ 1 -
+/denied-payments/feed/ 1 -
+/antioxidants 2 -
+/macncheese/ 2 -
+/cigarette-laws/feed/ 2 -
+/voie-nord.fr/ 3 -
+/category/fun/ 2 -
+/guide/group-medical-insurance/ 1 -
+/application/https://global.leadstudio.com/privacy 1 -
+/wp-content/uploads/2010/11/flexaccount640.jpg 1 -
+/short-term-health-insurance/https://global.leadstudio.com/termsmedical 1 -
+/drinking/ 4 -
+/index.html 1 -
+/marijuana-health-facts/ 29 -
+/tag/mammograms/ 1 -
+/guide-halloween-candy 1 -
+/52-blogs-run-by-doctors-or-nurses-offering-medical-advice-and-stories/feed/ 3 -
+/macncheese 1 -
+/do-energy-drinks-and-supplements-work 1 -
+/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php 1 -
+/guide/individual-medical-insurance/ 1 -
+/modules/columnadverts/uploadimage.php 1 -
+/wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/single-upload.php 1 -
+/food-labels-truth/ 8 -
+/search/%2B/page/2/ 1 -
+/tag/anorexia-advice/ 3 -
+/search/%25252525252525252525252B/ 2 -
+/before-there-was-medical-insurance/ 2 -
+/o-canada/ 1 -
+/tag/insurance/ 2 -
+/guide/family-medical-insurance/feed/ 3 -
+/apple-touch-icon-precomposed.png 3 -
+/tag/autism-awareness/ 1 -
+/downloader/ 1 -
+/tag/medical-information/feed/ 1 -
+/guide/private-medical-insurance/feed/ 3 -
+/category/uncategorized/ 2 -
+/wp-content/plugins/real3d-flipbook/includes/process.php 1 -
+/search/%2525252525252B/ 1 -
+/death-facts/ 40 -
+/truth-about-alcoholism 4 -
+/fun/ 2 -
+/getting-medical-insurance-for-your-kids 1 -
+/prevent-sports-injuries/ 29 -
+/tag/finding-the-right-doctor/feed/ 3 -
+/mnf-assurance.fr/ 5 -
+/50-of-the-best-sites-with-information-on-prescription-drugs/ 3 -
+/sex-dolls/ 10 -
+/tag/autism/ 2 -
+/js/plugins/'+b+' 2 -
+/goat-tennis-fednad/ 6 -
+/medical-debt-shakes-families/ 3 -
+/maximizing-your-hmo/ 2 -
+/pet-insurance/feed/ 1 -
+/far.php 1 -
+/search/+/page/5/ 1 -
+/health-reform-changes-to-expect/feed/ 1 -
+/license.txt 2 -
+/the-history-of-ice-cream/ 12 -
+/death-facts/feed/ 2 -
+/47-stories-about-travel-medical-insurance/ 2 -
+/modules/pk_flexmenu/ajax/upload.php 1 -
+/dexter/ 5 -
+/page/2/ 3 -
+/choosing-the-right-hospital/ 1 -
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 1 -
+/application/https://global.leadstudio.com/termsmedical 1 -
+/121/ 3 -
+/obese-baby-denied-medical-insurance/ 3 -
+/health-care-reform/feed/ 1 -
+/food-labels-truth 7 -
+/halloween-candy 1 -
+/appealing-a-denial-of-service/ 2 -
+/paid-sick-days/ 8 -
+/tag/medical-sites/ 1 -
+/wp-content/uploads/2012/06/healthiest-world_500.jpg 3 -
+/wp-content/uploads/2010/03/rxpot.jpg 2 -
+/50-of-the-best-sites-with-information-on-prescription-drugs 2 -
+/search/%2525252525252525252525252525252B/ 2 -
+/tailgating 6 -
+/tag/anorexia-signs/feed/ 3 -
+/wp-content/uploads/2012/06/electronic-cigarette.jpg 1 -
+/the-10-most-expensive-medical-conditions-to-avoid/ 1 -
+/search/%2B/ 2 -
+/blog/wp-includes/wlwmanifest.xml 16 -
+/search/%252525252525252525252525252B/ 1 -
+/wp-content/uploads/2012/05/health-insurance-deduction.jpg 1 -
+/prevent-sports-injuries 3 -
+/food-labels/ 1 -
+/tag/finding-the-right-doctor/ 2 -
+/wlit1.my-videos.fr/ 4 -
+/tag/prescription-info/ 1 -
+/50-inspiring-blogs-written-about-living-with-medical-conditions/feed/ 2 -
+/tailgating/ 5 -
+/tag/health-conditions/ 2 -
+/tag/medical-information/ 2 -
+/nhl-goat/feed/ 2 -
+/unemployed/feed/ 1 -
+/tag/tattoos/feed/ 3 -
+/wp-content/uploads/2010/11/principal640.jpg 1 -
+//code.jquery.com/jquery-3.1.1.min.js 2 -
+/42-posts-of-medical-information-and-what-to-look-for-when-choosing-a-doctor/ 3 -
+/sports-injuries 4 http://www.onlyinfographic.com/2010/most-common-sports-injuries-and-treatments/
+/shop/ 2 -
+/understanding-your-medical-insurance/ 8 -
+/origins-nfl/feed/ 2 -
+/admin 1 -
+/paid-sick-days 2 -
+/marijuana-facts%22%3E%3Cimg 2 -
+/history-of-makeup/ 7 -
+/flaccid-trut/feed/ 2 -
+/tag/aspergers-support/ 2 -
+/47-blogs-about-self-cleansing-and-detoxing-at-home/ 34 -
+/fun-facts-about-smoking/ 4 -
+/tag/medical-resources/feed/ 3 -
+/guide/cobra-insurance/ 2 -
+/wp-content/uploads/catalog_enquiry/lu5s5.php 1 -
+/category/cobra/ 2 -
+/js/admin.js 2 -
+/hangover-biology 1 -
+/wp-content/plugins/dzs-portfolio/upload.php 1 -
+/tag/cleansing-your-system/feed/ 3 -
+/components/com_sexycontactform/fileupload/index.php 1 -
+/tag/apple/ 1 -
+/tag/alcoholism/ 2 -
+/tag/surgery/ 2 -
+/tag/doctors-blogs/ 2 -
+/nine-muscle-building-tips-for-skinny-guys/feed/ 2 -
+/toilet-incidents/ 6 -
+/secret-fast-food-menus 5 -
+/nhl-goat/ 29 -
+/cobra/ 1 -
+/nhl-goa/ 2 -
+/wp-content/plugins/dzs-videogallery/admin/upload.php 2 -
+/wp-content/plugins/dzs-videogallery/upload.php 1 -
+/guide/mini-meds-insurance/ 1 -
+/tag/medical-advice/ 1 -
+/tag/medical-blogs/feed/ 2 -
+/hfcs-dangers/feed/ 2 -
+/history-of-ice-cream 4 -
+/tag/travel-medical-insurance/ 1 -
+/tag/news/feed/ 1 -
+/marijuana-health-facts/feed/ 4 -
+/geography-of-sex/feed/ 3 -
+/js/plugins/'+this.addTrailingSlash(a)+'embed/ 1 -
+/sex-injuries/feed/ 2 -
+/what-is-medical-insurance-like-in-the-uk/ 3 -
+/wp-content/uploads/2012/06/medical-insurance-quotes.jpg 1 -
+/the-definitive-guide-to-medical-insurance/individual-medical-insurance/ 2 -
+/candy-jar-makeover/feed/ 1 -
+/can-you-get-affordable-medical-insurance/ 3 -
+/insurance-fraud/feed/ 1 -
+/marijuana-health-facts 13 -
+/the-definitive-guide-to-medical-insurance/medical-insurance-glossary/ 2 -
+/js/parsleyjs/).html(this.options.errorMessage)):this._ui.$errorsWrapper.removeClass( 2 -
+/15-things-about-the-tongue/ 10 -
+/gestational-diabetes-diet-symptoms/ 7 -
+/wp-content/themes/medical/images/right.gif 1 -
+/toilet-related-incidents 2 -
+/why-take-a-poke-if-you-can-take-a-toke/ 2 -
+/wp-content/uploads/2012/06/gestational-diabetes-breakdown.jpg 1 -
+/the-definitive-guide-to-medical-insurance/insurance-risk-pools/ 2 -
+/tag/autism-information/ 2 -
+/tag/choosing-a-doctor/feed/ 2 -
+/history-of-ice-cream/ 12 -
+/halloween-candy/ 8 -
+/marijuana-facts 5 -
+/the-definitive-guide-to-medical-insurance/medical-insurance-buying-tips/ 2 -
+/sex-laws-world 2 -
+/page/3/ 4 -
+/antioxidants-truth/ 7 -
+/sex-injuries 6 -
+/paid-sick 10 -
+/secret-fast-food-menus/ 7 -
+/wp-content/uploads/2010/05/alcoholism_post_thumb.jpg 1 -
+/tag/smoking/ 1 -
+/halloween-horror-stories/ 23 -
+/https://global.leadstudio.com/contactmed 2 -
+/drinking-laws 2 -
+/uncategorized/feed/ 2 -
+/48-blogs-about-anorexia-early-signs-to-look-for-and-how-to-stop-it/ 4 -
+/whos-the-greatest-of-all-time/feed/ 3 -
+/js/plugins/'+a+' 3 -
+/antioxidants/ 4 -
+/toning-fitness-shoes/ 7 -
+/macn/ 2 -
+/dexter 7 -
+/page/5/ 2 -
+/history-of-ice-cream/feed/ 2 -
+/42-medical-blogs-written-entirely-by-med-students/feed/ 2 -
+/category/advice/ 3 -
+/wp-content/uploads/2012/06/zoonotic-diseases.jpg 1 -
+/toilet-related-incidents/ 7 -
+/bath-salts-abuse/ 10 -
+/sex-geography 3 -
+/nine-muscle-building-tips-for-skinny-guys/ 3 -
+/wp-content/plugins/cherry-plugin/admin/import-export/yjtXi.php 1 -
+/zoonotic-diseases-summer/feed/ 1 -
+/wp-content/uploads/2010/04/bicycling.jpg 1 -
+/bio-hangover/ 14 -
+/tag/detoxification/ 2 -
+/managed-care-trends/ 1 -
+/blog/xmlrpc.php 2 -
+/wp-content/plugins/cherry-plugin/admin/import-export/upload.php 1 -
+/wp-content/plugins/cardoza-facebook-like-box/custom-css/xo.php 1 -
+/blog/ 14 -
+/consumer-friendly-health-care/ 3 -
+/tag/golden-years/feed/ 1 -
+/cobra-vs-private-market/ 2 -
+/tag/medical-conditions/ 2 -
+/extraordinary-mcdonald-menu-items/ 14 -
+/guide/how-to-reduce-your-medical-insurance-rates/ 2 -
+/tag/nursing-blogs/ 2 -
+/search/%25252525252525252525252525252B/ 2 -
+/the-definitive-guide-to-medical-insurance/mini-meds-insurance/ 2 -
+/laughter 4 -
+/category/insurance-benefits/ 2 -
+/5-superfoods-better-weight-loss/feed/ 2 -
+/quit-smoking-to-save-big-bucks-on-medical-insurance/ 2 -
+/media/system/js/core.js 2 -
+/tag/health-problems/feed/ 2 -
+/wp-content/uploads/2010/11/fraud640.jpg 1 -
+/flexible-spending-account-rules-changing/ 1 -
+/tag/has/feed/ 1 -
+/out-of-network-care-in-a-managed-care-world/feed/ 3 -
+/sex-geography/ 2 -
+/modules/wdoptionpanel/upload/ZcXbN.php 1 -
+/search/%2B/page/5/ 1 -
+/how-to-get-healthy-16-tips/feed/ 1 -
+/tag/self-cleansing/feed/ 2 -
+/paid-sick/ 2 -
+/benefit-plans-now-including-wellness-benefits/ 2 -
+/toilet-incidents 8 -
+/halloween-horror-stories 2 -
+/tailgating-tips/ 9 -
+/laughter-medicine 1 -
+/five-gym-free-exercises/ 6 -
+/death/ 22 -
+/47-articles-about-insurance-for-high-risk-patients/feed/ 2 -
+/health-insurance-deduction/ 2 -
+/laughter-medicine/feed/ 2 -
+/tag/choosing-a-doctor/ 1 -
+/js/parsleyjs/+e).html(i||this._getErrorMessage(n))},_removeError:function(e){this._ui.$errorsWrapper.removeClass( 2 -
+/drusex-facts/ 2 -
+/the-definitive-guide-to-medical-insurance/supplemental-medical-insurance/ 2 -
+/celineparisstoreoutlet.com/ 4 -
+/drugs-sex-facts/feed/ 3 -
+/is-obesity-contagious/ 3 -
+/tag/medical-conditions/feed/ 3 -
+/what-is-a-medical-group/feed/ 3 -
+/guide/ 35 -
+/advice/feed/ 3 -
+/food-labels-truth/feed/ 2 -
+/antioxidants-truth/feed/ 1 -
+/wp-includes/wlwmanifest.xml 18 -
+/short-term-medical-insurance/ 2 -
+/15-things-you-didnt-know-about-the-tongue/feed/ 3 -
+/health-reform-changes-to-expect/ 3 -
+/5-superfoods-better-weight-loss/ 5 -
+/what-is-a-medical-group/ 2 -
+/wp-content/plugins/contus-hd-flv-player/uploadVideo.php 1 -
+/wp-content/uploads/2012/06/candy-jar.png 1 -
+/electronic-cigarette-better-than-real-cigarettes/feed/ 2 -
+/wp-content/plugins/php-event-calendar/server/file-uploader/ 1 -
+/robots.txt 1150 -
+/toning-shoes/ 3 -
+/swinging-back-at-cancer/ 3 -
+/49-stori%E2%80%A6 9 -
+/5-simple-diet-tips/ 4 -
+/tag/health-insurance/ 2 -
+/guide/medical-insurance-faq/feed/ 1 -
+/search/%25252B/ 2 -
+/search/%25252525252B/ 1 -
+/sitemap.xml 8 -
+/tag/surgery/feed/ 3 -
+/tag/medical-savings-accounts/feed/ 1 -
+/mandatory-medical-insurance1/ 3 -
+/administrator/components/com_joomlaupdate/restore.php 1 -
+/seven-personal-hygiene-mistakes-that-men-make/feed/ 2 -
+/47-articles-about-insurance-for-high-risk-patients/ 4 http://hubpages.com
+/is-job-stress-killing-you 1 -
+/bath-salts-abuse/feed 1 -
+/CHANGELOG.txt 2 -
+/category/small-business-medical-insurance/ 2 -
+/js/plugins/)||612),this.resize(c),b=c+80,this.lightbox_body.html( 2 -
+/choosing-medical-insurance-quotes/feed/ 2 -
+/tag/medical-insurance/ 1 -
+/wp-content/uploads/2012/06/abuse-bath-salts.jpg 1 -
+/wp-content/plugins/wp-property/third-party/uploadify/uploadify.php 1 -
+/secret-menus/ 17 -
+/tag/health-conditions/feed/ 5 -
+/45-articles-with-tips-about-medical-insurance-for-students/ 13 -
+/wp-content/uploads/2010/06/orgasms_post_thumb.jpg 2 -
+/drusex-facts 5 -
+/js/parsleyjs/+t).html(n||this._getErrorMessage(r)))},_updateError:function(e,t){var 2 -
+/category/uncategorized/page/2/ 2 -
+/wp-content/uploads/2010/11/hospital-room1.jpg 1 -
+/reviewing-your-hospital-bill/feed/ 1 -
+/50-of-the-best-sites-with-information-on-prescription-drugs/feed/ 2 -
+/tag/autism-information/feed/ 3 -
+/tag/health-problems/ 1 -
+/guide/mini-meds-insurance/feed/ 3 -
+/healthiest-people-in-world/ 7 -
+/tag/medical-insurance-while-traveling/ 2 -
+/xmlrpz.php 1 -
+/drinking-laws/feed/ 2 -
+/extraordinary-mcdonald-menu-items/feed/ 3 -
+/components/com_adsmanager/js/noconflict.js 2 -
+/company-will-pay-for-your-pot/ 14 -
+/tag/tattoo-removal/feed/ 3 -
+/tag/prescription-drugs/ 1 -
+/application/https://global.leadstudio.com/thirdparty 1 -
+/42-top-notch-little-known-medical-blogs/feed/ 3 -
+/advice/ 4 -
+/smoking/feed/ 1 -
+/tag/tips/feed/ 1 -
+/hangover-biology/ 20 -
+//components/com_sexycontactform/fileupload/index.php 1 -
+/category/stories/ 1 -
+/drinking 1 -
+/nfl 12 -
+/guide/self-employed-medical-insurance/ 4 -
+/insurance-benefits/ 4 -
+/short-term-health-insurance/feed/ 1 -
+/tag/insurance-scams/feed/ 1 -
+/marijuana-facts/ 20 -
+/modules/attributewizardpro/file_upload.php 1 -
+/category/infographics/ 2 -
+/seven-personal-hygiene-mistakes-that-men-make/ 2 -
+/modules/wdoptionpanel/wdoptionpanel_ajax.php 1 -
+/fastfood 2 -
+/wp-content/uploads/2012/06/science-of-getting-drunk-1.jpg 1 -
+/tag/autism/feed/ 3 -
+/stories/feed/ 3 -
+/facts-about-maternity-coverage/feed/ 3 -
+/guide/types-of-medical-insurance/feed/ 3 -
+/nfl/ 1 -
+/wp/wp-includes/wlwmanifest.xml 2 -
+/page/6/ 2 -
+/apple-extends-medical-insurance-to-part-time-employees/ 2 -
+/the-best-health-insurance/ 3 -
+/49-posts-of-tattoo-horror-stories-and-removal-options/ 6 -
+/search/%252525252B/ 2 -
+/tag/self-cleansing/ 2 -
+/wp-admin/admin-post.php 3 -
+/gestational-diabetes-diet-symptoms/feed/ 2 -
+/guide/feed/ 3 -
+/wp-content/themes/version.php 1 -
+/search/%2B/page/3/ 2 -
+/tag/managed-care-plan/feed/ 1 -
+/category/short-term-medical-insurance/ 2 -
+/js/bootstrap/).html()||a.find( 2 -
+/blog/the-truth-about-alcoholism/ 2 -
+/42-medical-blogs-written-entirely-by-med-students/ 15 -
+/search/%252525252525252525252525252525252B/ 3 -
+/tag/insurance/feed/ 2 -
+/4-things-you-must-do-when-hiring-a-medical-contract-manufacturer/ 1 -
+/tag/family-budget/feed/ 1 -
+/tag/biometric-technology/feed/ 1 -
+/wlit2.my-videos.fr/ 3 -
+/wp-content/uploads/2012/08/health-savings-accounts.jpeg 2 -
+/sex-dolls 4 -
+/medical-insurance-fraud-rampant/ 1 -
+/45-articles-with-tips-about-medical-insurance-for-students/feed/ 3 -
+/cobra-vs-private-market/feed/ 3 -
+/catalog/ 2 -
+/adult-children-benefit-from-healthcare-reform/ 2 -
+/15-things-you-didnt-know-about-the-tongue/ 10 -
+/50-posts-discussing-autism-and-aspergers-syndrome/feed/ 1 -
+/12-benefits-health-savings-account-hsa/ 3 -
+/is-medical-insurance-a-right-or-a-privilege/ 3 -
+/getting-medical-insurance-for-your-kids/ 4 -
+/wp-content/uploads/2009/11/FatBaby.jpg 1 -
+/the-definitive-guide-to-medical-insurance/short-term-medical-insurance/ 1 -
+/search/%2525252525252525252B/ 2 -
+/hohneck-translations.fr/ 4 -
+/how-to-make-the-best-of-your-medical-insurance/ 2 -
+/eating-healthy-on-the-road/ 1 -
+/giancarlosalvador.it/ 2 -
+/ads.txt 5 -
+/greatest-of-all-time/ 18 -
+/search/%2B/page/6/ 2 -
+/7-best-rock-songs-about-doctors/ 1 -
+/wp-content/uploads/2012/07/healthcare-abroad.jpeg 1 -
+/sex-dolls-history/feed/ 2 -
+/nhl-goat 2 -
+/tag/tips/ 2 -
+/tag/international-travel-medical-insurance/feed/ 1 -
+/goat-tennis/ 3 -
+/guide/insurance-risk-pools/ 2 -
+/news/ 2 -
+/cgi-bin/ 4 -
+/tag/prescription-drugs/feed/ 3 -
+/5-easy-ways-to-get-medical-insurance-when-you%25e2%2580%2599re-unemployed/ 2 -
+/wp-content/plugins/gallery-plugin/upload/php.php 1 -
+/js/bootstrap/).children().detach().end()[this.options.html 2 -
+/tag/travel-medical-insurance/feed/ 2 -
+/48-blogs-about-anorexia-early-signs-to-look-for-and-how-to-stop-it/feed/ 1 -
+/tuel.fr/ 5 -
+/47-excellent-aspergers-support-blogs/feed/ 2 -
+/about/ 13 -
+/tournois-ludiciens.fr/ 4 -
+/picking-the-right-family-doctor/ 3 -
+/horror-stories/ 4 -
+/category/news/ 2 -
+/guide/supplemental-medical-insurance/feed/ 3 -
+/js/plugins/)||!1,c||this.isExternal(b) 2 -
+/flaccid-trut/feed 1 -
+/hfcs-dangers/ 9 -
+/injuries 8 -
+/mri-payment-denied/ 2 -
+/store/ 2 -
+/drinking-laws/ 7 -
+/tag/med-student-blogs/feed/ 2 -
+/do-energy-drinks-and-supplements-work/ 2 -
+/tag/nursing-blogs/feed/ 1 -
+/js/plugins/):void 2 -
+/medical-insurance-costs-go-up-in-smoke/ 1 -
+/modules/vtemslideshow/uploadimage.php 1 -
+/feed/ 326 -
+/antioxidants-truth 2 -
+/tailgating-tips 1 -
+/&wd=test 9 http://www.baidu.com/s
+/wp-content/plugins/page-google-maps/pr.php 1 -
+/bizarre-contraceptives 3 -
+/47-excellent-aspergers-support-blogs/ 9 -
+/tag/college-student-medical-insurance/feed/ 3 -
+/tag/students/ 1 -
+/dexter-killer/ 20 -
+/tag/medical-insurance-information/ 2 -
+/guide/types-of-medical-insurance/ 4 -
+/goat-tennis 4 -
+/goat-tennis-fednad/feed/ 1 -
+/why-people-don%E2%80%99t-have-medical-insurance/ 1 -
+/guide/student-medical-insurance/feed/ 3 -
+/50-posts-discussing-autism-and-aspergers-syndrome/ 3 -
+/wp-content/uploads/2012/06/tp98PK_iStock_000003174859XSmall.jpeg 1 -
+/tag/aspergers-disease/ 1 -
+/maximizing-your-hmo/feed/ 3 -
+/tag/orgasms/feed/ 1 -
+/search/%252525252525252525252B/ 2 -
+/how-to-utilize-a-medical-savings-accounts/ 3 -
+/category/uncategorized/page/3/ 1 -
+/wp-content/plugins/simple-dropbox-upload-form/dragup/ 1 -
+/tag/medical-marijuana/feed/ 1 -
+/tag/medical-resources/ 2 -
+/electronic-cigarette-better-than-real-cigarettes/ 3 -
+/prevent-sports-injuries/feed/ 2 -
+/it%E2%80%99s-a-good-thing-doctors-are-ethical/ 11 -
+/tag/medicare-part-d/feed/ 1 -
+/cigarette/ 2 -
+/crazy-ass-ways-to-kill-the-pain/ 3 -
+/wp-content/plugins/wp-handy-lightbox/begin.php 1 -
+/drunk-history-getting-drunk/ 27 -
+/is-job-stress-killing-you/feed/ 2 -
+/sex-dolls-history/ 7 -
+/tag/medical-students/ 2 -
+/tag/detox/feed/ 4 -
+/tag/medicaid/feed/ 1 -
+/wp-content/plugins/wp-symposium/server/php/index.php 1 -
+/wp-content/plugins/dzs-portfolio/admin/upload.php 1 -
+/dexter-killer 2 -
+/bio-hangover 11 http://medicalinsurance.org/bio-hangover
+/guide/student-medical-insurance/ 3 -
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 1 -
+/navigating-the-medical-insurance-jungle/ 2 -
+/wp-content/plugins/formcraft/file-upload/server/content/files/ 1 -
+/search/%252B/ 1 -
+/healthcare-abroad/feed/ 2 -
+/wp-content/uploads/2009/12/SmallBiz.png 2 -
+/wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css 2 -
+/tag/health-care-reform/feed/ 1 -
+/guide/cobra-insurance/feed/ 4 -
+/hfcs-dangers 2 -
+/facts-about-maternity-coverage/ 1 -
+/%22%3EMedical/ 1 -
+/uncategorized/page/2/ 2 -
+/short-term-health-insurance/https://global.leadstudio.com/contactmed 1 -
+/hangover-biology/feed/ 2 -
+/tag/cleansing-your-system/ 1 -
+/replace.php 1 -
+/marijuana-facts%22%3E%3Cimg/ 1 -
+/tag/doctors/feed/ 1 -
+/wp-content/uploads/2010/10/aspergers.jpg 5 -
+/is-job-stress-killing-you/ 7 -
+/fair-foods 2 -
+/.index.php 2 -
+/tag/detoxification/feed/ 2 -
+/50-articles-on-what-you-should-know-about-your-medical-insurance-coverage-before-undergoing-surgery/feed/ 2 -
+/toning-shoes 7 -
+/modules/homepageadvertise/uploadimage.php 2 -
+/guide/group-medical-insurance/feed/ 3 -
+/tag/medical-advice/feed/ 3 -
+/guide/medical-insurance-buying-tips/feed/ 3 -
+/about/feed/ 1 -
+/sex-laws-world/feed/ 1 -
+/15-things-you-didnt-know-about-the-tongue/http:// 14 https://www.vitis.es
+/advice/page/2/ 1 -
+/tag/infographic/feed/ 3 -
+/contraceptives 3 -
+/47-blogs-about-self-cleansing-and-detoxing-at-home/feed/ 2 -
+/js/plugins/),this},showLoading:function(){return 2 -
+/komediadisco.it/ 4 -
+/toning-fitness-shoes 1 -
+/page/4/ 3 -
+/short-term-health-insurance/https://global.leadstudio.com/privacy 1 -
+/guccioutletsalestoreusa.com/ 5 -
+/medical-savings-accounts/ 3 -
+/goat-tennis-fednad 4 -
+/truth-about-orgasms/ 16 -
+/fun/feed/ 1 -
+/wp-content/uploads/2012/06/how-to-get-healthy.jpg 1 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/images/alcoholism.jpg 24 -
+/zoonotic-diseases-summer/ 10 -
+/guide/medical-insurance-faq/ 31 -
+/robots.txt/ 30 -
+/42-medical-blogs-written-entirely-by-med-students 1 -
+/laughter/ 4 -
+/tag/medical-insurance/feed/ 2 -
+/misc/ajax.js 1 -
+/whos-the-greatest-of-all-time/ 11 -
+/the-truth-about-alcoholism/ 41 https://friendseat.com/blog
+/wp-content/uploads/2010/11/medins640.jpg 1 -
+/tag/american-cancer-society/feed/ 1 -
+/injuries/ 58 -
+/tag/aspergers-disease/feed/ 2 -
+/12-benefits-health-savings-account-hsa/feed/ 2 -
+/wp-content/plugins/mailpress/mp-includes/action.php 2 -
+/49-stories-about-anorexia/ 6 -
+/tag/medical-insurance-tips/ 2 -
+/tag/medical-expenses/feed/ 1 -
+/47-stories-about-travel-medical-insurance/feed/ 2 -
+/wp-content/themes/medical/images/diggb.gif 16 -
+/trackback/ 1 http://medicalinsurance.org/
+/5-exercises-you-can-do-without-a-gym-membership/ 5 -
+/sex-laws-world/ 21 -
+/sex-laws 7 -
+/search/+/page/4/ 1 -
+/guide/how-to-reduce-your-medical-insurance-rates/feed/ 3 -
+/horror-stories 2 -
+/death 1 -
+/study-workers-worry-more-about-pay-than-medical-insurance/ 3 -
+/wp-content/plugins/uploader/uploadify/uploadify.php 1 -
+/guide/self-employed-medical-insurance/feed/ 1 -
+/what-will-medical-insurance-be-like-in-30-years/ 2 -
+/wp-content/uploads/2010/07/marijuana2.jpg 5 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/modules/simpleslideshow/uploadimage.php 3 -
+/medicare/feed/ 1 -
+/the-definitive-guide-to-medical-insurance/how-to-reduce-your-medical-insurance-rates/ 2 -
+/tag/autism-awareness/feed/ 3 -
+/the-definitive-guide-to-medical-insurance/group-medical-insurance/ 1 -
+/hfcs 8 -
+/guide/short-term-medical-insurance/feed/ 2 -
+/when-cobra-runs-out/ 2 -
+/tag/malpractice/feed/ 1 -
+/secret-menus 4 -
+/reviewing-your-hospital-bill/ 3 -
+/wp-load.php 1 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/cart/ 2 -
+/more-than-just-claims-payment/feed/ 4 -
+/halloween-horror-stories/feed/ 1 -
+/small-business-medical-insurance/feed/ 1 -
+/deep-discounts-on-hospital-bills/ 3 -
+/js/bootstrap/'+b+' 2 -
+/contraceptives/ 2 -
+/food-labels 2 -
+/history-makeup 11 http://blog.mariobadescu.com/the-history-of-makeup-infographic/
+/hfcs/ 2 -
+/tag/college-student-medical-insurance/ 2 -
+/is-employer-provided-medical-insurance-a-problem/ 2 -
+/cancer-diet-and-exercise/ 2 -
+/sex-laws/ 26 -
+/&query=java 1 http://www.baidu.com/s
+/49-stories-about-anorexia/%3Cbr%20/%3E 2 -
+/tag/medical-debt/feed/ 1 -
+/guide/medical-insurance-glossary/feed/ 2 -
+/sex-injuries/ 22 -
+/%22%3EMedical 2 -
+/healthcare-abroad/ 2 -
+/the-truth-about-alcoholism 3 -
+/README.txt 4 -
+/search/%25252525252525252B/ 1 -
+/uncategorized/page/4/ 2 -
+/international-travel/feed/ 1 -
+/tag/medical-coverage/feed/ 1 -
+/marijuana-health-facts/&quot 1 -
+/tag/prescription-info/feed/ 3 -
+/tag/congress/feed/ 1 -
+/tag/bad-tattoo-experiences/feed/ 3 -
+/understanding-the-difference-between-hmos-and-ppos/ 2 -
+/tag/mri/feed/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 325
+172.16.11.31 40010 40010 389657390 20180228235910
+52.90.136.197 30 30 262990 20180227201313
+185.24.77.24 30 30 292170 20180210202652
+64.183.202.126 20 85 2807210 20180228152504
+123.207.95.146 19 19 185041 20180228134337
+52.87.232.174 18 18 157794 20180220060614
+107.77.249.3 15 36 770305 20180210172123
+34.204.192.171 15 15 131495 20180221032825
+139.199.63.33 12 12 116868 20180222071423
+54.197.212.98 12 12 105196 20180224013022
+124.226.64.180 11 11 107129 20180225062328
+13.56.229.65 10 10 97390 20180227001003
+91.225.166.141 10 40 608506 20180212122952
+97.81.59.70 9 31 902260 20180213103003
+50.28.61.158 9 9 0 20180227143126
+75.44.148.65 9 53 1738741 20180227102158
+185.199.188.160 8 44 1638780 20180214063744
+66.87.119.57 8 30 918168 20180203212743
+34.228.30.189 6 6 52598 20180228172221
+52.91.101.186 6 6 52598 20180219185020
+34.204.189.34 6 6 52598 20180211162314
+54.89.25.120 6 6 52598 20180221125206
+54.166.22.6 6 6 52598 20180201203816
+104.197.68.158 5 5 0 20180225061720
+76.169.36.62 5 26 723527 20180206112243
+109.173.56.132 1 21 785773 20180209150653
+66.249.81.100 0 7 365438 
+78.108.151.0 1 1 9739 20180226204623
+5.164.126.98 1 1 23424 20180227012108
+162.199.120.182 2 22 803801 20180209121354
+115.239.212.135 0 2 53437 
+14.215.176.9 2 4 342722 20180213025100
+111.206.36.142 0 1 42405 
+38.100.21.64 3 6 358795 20180210202800
+52.3.241.82 3 3 26299 20180217035823
+185.4.41.56 1 1 9739 20180227144309
+88.198.22.8 4 4 36038 20180218212346
+69.58.178.59 3 3 26299 20180205165311
+14.215.176.5 0 4 118779 
+14.215.176.15 0 2 54033 
+187.45.195.62 1 1 9739 20180213234557
+138.219.193.10 1 1 9739 20180225131644
+14.215.176.4 0 8 191982 
+34.217.133.198 1 1 9739 20180225101314
+117.215.62.251 1 1 9739 20180214041213
+124.107.56.251 1 1 9739 20180219084859
+107.202.120.33 2 22 803801 20180227073433
+107.150.7.219 1 1 9739 20180223212244
+162.213.254.121 1 1 9739 20180227070727
+192.186.182.124 1 1 9739 20180203182401
+74.141.218.167 1 1 9739 20180223134610
+123.125.143.30 0 1 42405 
+194.187.170.127 2 2 16560 20180204113450
+37.187.56.76 3 3 26299 20180217000703
+204.169.40.230 2 22 803801 20180212131434
+123.125.143.15 2 3 300317 20180207181658
+192.0.91.199 2 23 858536 20180204022751
+111.206.36.9 0 3 109935 
+111.206.36.13 2 6 359418 20180225175816
+37.187.249.76 2 2 19478 20180221110208
+78.106.114.216 0 8 416445 
+14.215.176.10 0 2 100421 
+188.241.254.79 5 46 1845697 20180201201357
+111.206.36.8 0 2 53437 
+117.248.147.25 3 23 813540 20180223221543
+52.202.245.43 3 3 26299 20180221000039
+115.239.212.137 0 4 116941 
+66.249.81.60 0 8 161084 
+54.82.62.180 2 12 529058 20180228122007
+222.233.23.220 1 1 9739 20180217185831
+34.201.161.60 4 4 36038 20180222024430
+151.64.30.224 1 1 9739 20180202064456
+123.125.143.158 0 3 20850 
+110.136.129.60 1 1 9739 20180210175133
+34.243.163.209 1 1 0 20180215125225
+46.118.127.15 2 2 19478 20180202082047
+148.251.192.100 3 3 0 20180226034441
+111.206.36.19 0 2 48673 
+88.198.44.46 1 1 0 20180203204133
+115.239.212.136 0 1 42405 
+66.249.88.154 2 6 102711 20180201064220
+162.208.50.75 0 2 171260 
+66.102.8.199 1 7 115475 20180212225935
+217.79.191.113 1 1 9739 20180212185426
+14.215.176.14 3 6 389506 20180223015023
+136.243.244.243 1 1 9739 20180220111632
+108.61.177.16 2 2 19478 20180214135917
+192.0.91.153 0 1 171260 
+54.90.87.145 1 11 506005 20180228123040
+111.206.36.137 0 1 63376 
+128.75.108.29 2 12 525761 20180202130452
+54.90.196.83 1 1 9739 20180228121743
+36.251.128.175 1 1 9739 20180221001718
+54.202.132.189 1 1 9739 20180225174858
+146.185.147.150 1 1 9739 20180224112725
+35.153.51.120 3 3 26299 20180227203816
+144.76.80.151 3 3 26299 20180208121917
+62.24.181.135 1 14 299492 20180214074244
+66.249.81.58 2 3 79238 20180215135950
+195.201.25.193 1 8 173138 20180228101106
+178.137.17.67 1 1 9739 20180206125624
+2.98.123.128 2 22 803801 20180214074214
+199.87.137.211 2 22 809197 20180218173517
+104.200.67.53 1 1 0 20180204035442
+116.197.131.78 2 22 803801 20180207014055
+35.225.221.87 2 2 19478 20180219045153
+46.242.81.225 2 12 525761 20180225014645
+14.141.107.206 4 4 38956 20180209101213
+129.78.110.124 1 1 9739 20180204011148
+66.249.88.153 0 4 32091 
+123.125.143.137 0 1 42405 
+73.231.181.96 1 1 6450 20180204212808
+138.128.51.41 1 1 9739 20180203182345
+71.6.165.200 1 1 9739 20180204154213
+115.239.212.9 0 3 28324 
+34.201.161.180 3 3 26299 20180216033104
+111.206.36.11 0 3 20850 
+123.125.143.31 0 1 63376 
+71.76.211.152 2 22 803801 20180227075007
+216.71.62.32 2 21 645647 20180219062350
+94.180.169.250 2 12 525761 20180225014645
+46.4.15.197 1 1 0 20180225193151
+54.202.153.164 1 1 9739 20180223114519
+49.199.181.40 2 21 645647 20180207205144
+192.99.47.111 5 5 45777 20180212070844
+34.201.164.134 1 1 9739 20180224105210
+128.68.29.17 2 12 525761 20180218184652
+14.215.176.12 0 3 20850 
+93.160.60.32 5 5 48695 20180228231053
+66.87.118.118 1 1 9739 20180227145802
+64.125.71.178 2 22 803801 20180208141431
+5.167.122.69 1 6 368581 20180203231114
+64.233.173.1 1 4 68735 20180214030647
+14.215.176.13 0 10 258630 
+221.11.229.63 1 1 9739 20180219234351
+208.94.128.53 2 22 803801 20180226160202
+180.97.35.21 0 1 63376 
+122.177.100.242 2 2 19478 20180206001523
+137.74.168.174 2 2 19478 20180209210001
+173.18.144.177 2 21 645647 20180214155922
+94.23.171.176 1 1 9739 20180222131442
+52.26.131.59 1 1 9739 20180221142633
+203.133.175.36 1 8 173138 20180208025549
+123.125.143.14 2 3 300317 20180224141609
+111.206.36.135 0 1 63376 
+46.188.22.189 2 12 525761 20180215085759
+52.91.127.158 3 3 26299 20180217105947
+107.77.245.6 2 21 645647 20180221191553
+34.244.144.46 1 1 9739 20180227120944
+123.125.143.134 0 2 48673 
+66.102.8.201 0 9 163910 
+123.125.143.17 0 2 179353 
+65.60.53.10 1 1 9739 20180226141839
+178.159.37.11 3 3 29217 20180223204229
+95.24.133.206 1 21 785773 20180228114754
+99.203.11.105 2 21 645647 20180217134204
+34.227.101.49 3 3 26299 20180208044452
+103.208.246.231 1 1 9739 20180228211004
+52.5.141.225 1 1 9739 20180225131602
+188.120.236.96 3 3 29217 20180222024637
+95.234.227.8 1 1 9739 20180203153626
+137.74.114.163 3 3 29217 20180222033346
+65.49.2.181 1 1 9739 20180204130624
+66.102.8.196 0 4 348234 
+192.3.145.103 1 1 9739 20180213235558
+65.99.237.151 1 1 9739 20180226124708
+217.69.143.217 1 1 9739 20180209234227
+54.174.204.176 3 3 26299 20180217232612
+172.58.23.145 2 21 645647 20180227213826
+159.253.137.110 1 1 9739 20180214014839
+115.239.212.11 0 1 37045 
+93.80.36.249 1 6 157180 20180203231103
+93.118.213.213 1 1 9739 20180228150842
+217.147.169.228 1 1 9739 20180218094952
+123.125.143.159 0 4 102110 
+123.125.143.9 0 3 20850 
+34.214.206.39 1 1 9739 20180210122800
+111.206.36.143 0 2 48673 
+74.87.163.6 1 1 9739 20180214144126
+46.242.72.16 2 3 66911 20180216230237
+151.49.199.245 1 1 9739 20180227135307
+54.236.51.154 3 3 26299 20180217125825
+51.15.81.222 1 1 9739 20180218103834
+73.254.219.119 3 23 818936 20180222105408
+107.178.40.242 1 1 9739 20180213193659
+180.97.35.217 0 2 53437 
+65.132.59.34 2 2 19478 20180209022042
+123.125.143.155 0 3 20850 
+91.121.88.41 1 1 9739 20180209132255
+74.221.209.102 1 1 9739 20180227190538
+123.125.143.141 0 2 48673 
+216.19.210.135 1 1 9739 20180201155857
+172.58.38.252 2 21 645647 20180221154609
+104.143.198.202 1 1 9739 20180204194340
+94.130.71.81 1 1 9739 20180202105442
+209.141.46.108 1 1 9739 20180225110656
+66.249.88.90 0 3 37121 
+69.13.39.34 1 1 9739 20180216163149
+162.208.51.44 0 2 171260 
+180.97.35.149 2 4 342722 20180207125233
+13.114.207.110 1 1 9739 20180217174423
+166.170.15.127 2 21 645647 20180205004809
+52.91.101.229 3 3 26299 20180202011603
+145.255.21.228 1 1 9739 20180228223033
+172.4.173.182 2 21 645647 20180215171251
+52.91.124.138 1 1 9739 20180207131032
+198.102.159.137 2 22 803801 20180209093516
+111.206.36.12 0 3 20850 
+111.206.36.141 0 2 53437 
+34.239.253.68 3 3 26299 20180206014735
+180.153.236.133 1 1 9739 20180204023930
+73.196.185.31 2 22 803801 20180205215853
+123.125.143.145 0 1 63376 
+136.243.89.5 1 1 9739 20180208034914
+66.249.81.62 0 10 405325 
+111.206.36.17 2 3 300317 20180208025124
+54.226.196.103 1 1 9739 20180228121733
+144.76.5.234 4 26 886784 20180202072931
+34.216.252.127 2 2 19478 20180211125146
+192.210.198.178 1 1 9739 20180226010053
+95.27.44.207 1 7 399093 20180227012045
+162.208.51.41 0 2 15326 
+54.165.59.7 2 2 19478 20180226172539
+75.71.137.52 2 21 645647 20180204215031
+202.62.9.130 4 24 813540 20180226090747
+52.91.249.241 1 1 9739 20180225213214
+194.187.170.142 1 1 10110 20180215083351
+159.89.185.254 1 1 9739 20180202145746
+54.234.55.176 3 3 26299 20180222191918
+111.206.36.138 0 2 48673 
+69.163.152.132 1 1 9739 20180222064438
+91.134.210.185 1 1 9739 20180225131603
+37.187.56.66 3 3 26299 20180202224651
+129.121.177.73 1 1 9739 20180219171629
+115.239.212.5 0 1 42405 
+180.97.35.219 0 2 41199 
+123.125.143.154 0 1 42405 
+211.30.193.127 2 21 651043 20180222130629
+180.97.35.164 0 3 28324 
+128.204.12.166 2 12 525761 20180218184653
+52.204.97.100 1 1 9739 20180221150639
+52.201.153.124 1 1 9739 20180207112404
+192.0.85.127 2 23 858536 20180213160951
+148.251.13.51 2 2 0 20180223183108
+207.41.188.222 2 22 803801 20180202111624
+66.35.59.249 2 2 0 20180216074856
+27.131.109.2 1 1 9739 20180225152912
+194.151.125.5 1 1 9739 20180216151747
+61.160.190.146 1 1 9739 20180209210006
+115.239.212.139 2 3 300317 20180206060800
+66.249.81.103 1 5 138869 20180224030001
+52.87.232.59 1 1 9739 20180220065034
+64.233.173.5 2 9 147329 20180214032404
+24.152.213.17 1 1 9739 20180212122256
+111.206.36.10 2 3 300317 20180228020348
+187.189.60.157 5 28 1049281 20180222114510
+174.136.12.61 1 1 9739 20180213175407
+14.215.176.17 2 7 663313 20180202052144
+123.125.143.65 2 3 300317 20180203003141
+176.53.43.49 1 1 9739 20180204140240
+89.178.19.183 0 1 42405 
+123.125.143.10 0 10 154223 
+66.249.88.152 0 12 671098 
+123.125.143.7 0 3 20850 
+5.35.67.28 1 1 9739 20180203065124
+138.197.114.250 2 2 19478 20180209210028
+14.215.176.11 0 9 77498 
+54.83.170.143 1 1 9739 20180222130517
+121.127.249.21 1 1 9739 20180205160213
+14.215.176.18 1 6 436111 20180224060249
+178.165.56.235 1 1 9739 20180226163713
+176.251.118.139 2 22 803801 20180208130738
+115.239.212.8 0 3 57591 
+123.125.143.138 0 2 53437 
+138.201.34.143 1 1 9739 20180202042108
+107.21.15.243 2 2 19478 20180227190401
+123.125.143.153 2 5 479670 20180209004125
+79.52.221.253 1 1 9739 20180214155739
+78.46.23.198 1 1 0 20180218080508
+109.232.227.133 1 1 9739 20180204112043
+54.175.118.179 1 1 9739 20180223002725
+212.113.133.136 1 1 9739 20180214112029
+192.187.101.178 4 4 29217 20180222230748
+188.165.192.220 1 1 9739 20180213234550
+64.233.173.3 1 10 449061 20180214032517
+66.249.81.105 1 9 141340 20180224030003
+115.239.212.10 2 4 363693 20180221001942
+123.125.143.135 0 2 48673 
+123.125.143.152 0 3 116813 
+66.249.88.94 1 8 466949 20180201064215
+104.144.203.29 1 1 9739 20180205090904
+14.215.176.8 0 1 267154 
+14.215.176.19 0 3 109935 
+183.87.215.20 2 22 805900 20180203000654
+54.85.90.183 1 1 9739 20180207190004
+194.187.170.108 1 1 6450 20180216123848
+109.66.41.169 2 2 9739 20180211153044
+159.203.180.245 2 2 0 20180208112914
+54.196.154.0 1 1 9739 20180216233412
+68.55.137.209 5 27 1030295 20180207141051
+198.1.76.2 1 1 9739 20180217024838
+35.168.3.76 1 1 9739 20180201234007
+14.215.176.6 2 8 415377 20180205054428
+5.62.153.60 1 1 9739 20180208005431
+66.249.88.92 1 10 141577 20180201064214
+146.185.223.160 2 2 19478 20180223074127
+178.33.39.197 1 1 9739 20180217031807
+185.114.3.24 1 1 9739 20180213220505
+123.125.143.140 0 2 105781 
+209.239.182.58 2 22 803801 20180222095324
+31.24.24.2 3 3 29217 20180211011425
+111.206.36.140 0 2 53437 
+213.159.38.90 3 3 29217 20180219155400
+124.124.14.93 2 2 19478 20180201202832
+52.206.214.92 5 5 45777 20180208234452
+108.221.184.23 4 24 823279 20180202141146
+123.125.143.18 0 8 100786 
+199.184.236.197 2 22 803801 20180207164824
+213.136.79.109 1 1 9739 20180215145749
+54.234.229.160 1 1 10110 20180228122131
+188.32.190.177 2 12 525761 20180223152953
+115.29.2.182 2 2 9739 20180217221428
+58.65.215.70 1 1 9739 20180210224124
+54.161.239.190 3 3 26299 20180222034918
+115.239.212.138 0 2 15958 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20180201 1460 1540 17410040 19
+20180202 1464 1566 18471198 19
+20180203 1462 1524 16848824 20
+20180204 1465 1515 16200154 23
+20180205 1446 1495 15973406 12
+20180206 1451 1482 15300126 14
+20180207 1457 1568 18649862 15
+20180208 1466 1565 18090647 21
+20180209 1461 1531 17060543 22
+20180210 1459 1483 15160081 12
+20180211 1432 1432 13933591 7
+20180212 1453 1543 17004094 13
+20180213 1456 1509 16330574 15
+20180214 1456 1543 17280025 18
+20180215 1447 1497 16000189 13
+20180216 1448 1458 14579752 15
+20180217 1455 1474 14769167 15
+20180218 1449 1491 16060042 14
+20180219 1451 1470 14738965 14
+20180220 1437 1437 13992025 6
+20180221 1452 1500 15881535 17
+20180222 1457 1539 17387162 17
+20180223 1451 1504 16526057 15
+20180224 1446 1485 15698663 13
+20180225 1452 1482 15640778 17
+20180226 1446 1468 14859847 13
+20180227 1471 1581 18736455 21
+20180228 1449 1528 17396738 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 2
+0s-30s 373
+5mn-15mn 6
+30s-2mn 12
+2mn-5mn 9
+15mn-30mn 5
+1h+ 29
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 40451 393621163 412 304
+/application 84 839336 15 10
+/short-term-health-insurance 71 451500 3 59
+/fonts/glyphicons-halflings-regular.woff2 45 793232 3 31
+/fonts/glyphicons-halflings-regular.woff 22 515328 1 19
+/fonts/glyphicons-halflings-regular.eot 11 221397 1 11
+/application/processLead 7 37056 0 1
+/application/setSessionDataAjax 7 0 0 0
+/index.php 1 9739 1 1
+END_SIDER

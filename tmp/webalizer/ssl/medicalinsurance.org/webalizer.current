@@ -1,0 +1,615 @@
+# Webalizer V2.23-08 Incremental Data - 09/24/2018 07:54:42
+2018 9 24 7 54 42
+504 337 129 14 6 31 30937617 270 251 0
+4 2 14 1 24
+9 6 446950 7 6 6
+54 44 2665357 10 10 10
+25 15 1270782 15 13 12
+30 22 1871178 18 11 11
+25 18 1571963 14 13 12
+19 15 767863 13 13 13
+27 18 1915470 14 13 13
+19 14 956237 10 12 12
+17 9 1346018 10 8 8
+12 8 708083 11 7 7
+27 16 1912639 15 12 12
+14 11 577157 8 11 8
+21 14 1258174 16 12 12
+16 11 928326 10 9 9
+16 10 1026639 7 9 9
+21 12 1520086 11 12 11
+18 13 910259 12 13 13
+18 9 1404924 9 8 8
+7 6 204631 6 6 6
+25 16 1549376 15 16 16
+26 20 1414887 18 15 14
+27 12 2461596 12 20 12
+27 14 2177400 15 18 14
+4 4 71622 4 3 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+10 6 686833 6
+21 12 1530857 9
+24 16 1290243 14
+13 8 779728 8
+47 34 2658320 14
+30 18 1749750 21
+24 18 1112419 16
+10 8 423518 7
+32 20 2376988 14
+11 7 751903 5
+21 16 971108 12
+12 10 783957 5
+17 11 1045704 13
+18 11 1268468 9
+15 10 712407 7
+25 18 1614385 12
+17 11 1042235 13
+12 10 493297 6
+11 8 549019 8
+21 13 1406108 13
+21 16 1261345 9
+30 22 1868593 13
+26 17 1519270 17
+36 17 3041162 19
+2
+0
+0
+337
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+160
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/pace.css
+0 9 0 15728 0 0
+/js/plugins/masked.js
+0 8 0 34640 0 0
+/css/theme.css
+0 7 0 1870078 0 0
+/js/plugins/lightbox.js
+0 8 0 81396 0 0
+/js/bootstrap/bootstrap.min.js
+0 7 0 259315 0 0
+/favicon.ico
+0 8 0 120688 0 0
+/js/theme.js
+0 8 7809631416767967341 29078 0 0
+/application
+0 4 24579632 40440 4 0
+/js/plugins/moment.js
+0 9 0 360297 0 0
+/short-term-health-insurance
+0 4 0 25800 3 2
+/css/vendor/animate.css
+0 7 0 443632 0 0
+/
+0 245 0 2346102 235 141
+/js/plugins/pace.js
+0 7 0 86562 0 0
+/js/parsleyjs/parsley.min.js
+0 11 3258125847494946658 466455 0 0
+# End Of Table - urls
+# -sites- (monthly)
+209.17.96.106
+0 1 1 9739 1 1537214845
+/
+crawl-66-249-69-152.googlebot.com
+0 2 2 19478 2 1536834363
+/
+116.62.123.85
+0 3 1 321294 1 1537718476
+-
+5-255-250-100.spider.yandex.com
+0 4 2 332742 2 1536249784
+/
+msnbot-207-46-13-210.search.msn.com
+0 6 6 58434 6 1536397613
+/
+msnbot-40-77-167-152.search.msn.com
+0 3 3 29217 3 1537518721
+/
+138.197.1.177
+0 2 2 0 1 1536161111
+/
+ip183.ip-54-36-148.eu
+0 1 1 9739 1 1536134257
+/
+planetlab5.net.in.tum.de
+0 2 2 0 2 1537320859
+/
+crawl-66-249-75-89.googlebot.com
+0 1 1 11628 0 0
+-
+6.39.195.35.bc.googleusercontent.com
+0 3 3 29217 1 1536723262
+/
+141-8-143-181.spider.yandex.com
+0 1 0 156632 0 0
+-
+5-255-250-6.spider.yandex.com
+0 1 1 9739 1 1536547121
+/
+crawl-66-249-69-150.googlebot.com
+0 1 0 156716 0 0
+-
+ec2-35-162-70-167.us-west-2.compute.amazonaws.com
+0 8 8 77912 8 1537683423
+/
+researchscan21.comsys.rwth-aachen.de
+0 4 4 38956 4 1537467259
+/
+ip109.ip-54-36-148.eu
+0 1 1 10110 1 1537466524
+/application
+ec2-54-93-110-79.eu-central-1.compute.amazonaws.com
+0 1 1 0 1 1537556985
+/
+5-255-250-72.spider.yandex.com
+0 1 0 156620 0 0
+-
+census8.shodan.io
+0 5 2 478507 1 1536987485
+/
+static.107.171.201.195.clients.your-server.de
+0 1 1 9739 1 1537546069
+/
+crawl-66-249-75-128.googlebot.com
+0 25 21 1149060 4 1536136975
+/
+209.17.96.138
+0 1 1 9739 1 1536636947
+/
+crawl-66-249-64-146.googlebot.com
+0 4 4 71622 3 1537190133
+/
+91.242.162.55
+0 2 1 168278 1 1537403076
+/application
+crawl-66-249-64-203.googlebot.com
+0 6 4 352964 4 1537272328
+/
+crawl-66-249-64-208.googlebot.com
+0 2 1 166455 1 1537409282
+/
+crawl-66-249-64-144.googlebot.com
+0 4 1 479875 1 1537227588
+/
+msnbot-207-46-13-198.search.msn.com
+0 10 0 1427428 0 0
+-
+msnbot-207-46-13-80.search.msn.com
+0 3 3 53003 0 0
+-
+msnbot-157-55-39-200.search.msn.com
+0 25 25 243475 23 1537410768
+/
+58.22.5.132
+0 3 1 321222 1 1537652448
+-
+209.17.96.162
+0 2 2 19478 2 1536956697
+/
+researchscan19.comsys.rwth-aachen.de
+0 3 3 29217 3 1537177122
+/
+37-9-87-182.spider.yandex.com
+0 16 7 1477645 7 1537639611
+/
+23.229.69.227
+0 1 1 6450 1 1537115683
+/short-term-health-insurance
+support.mylilliputkids.biz
+0 1 0 322 1 1535953492
+/
+msnbot-207-46-13-238.search.msn.com
+0 1 1 9739 1 1535913948
+/
+37-9-87-138.spider.yandex.com
+0 2 1 166335 1 1536659277
+/
+msnbot-207-46-13-97.search.msn.com
+0 1 1 9739 1 1536620629
+/
+177.86.116.70
+0 3 1 321282 1 1537679065
+-
+209.17.96.66
+0 1 1 9739 1 1536048671
+/
+100-43-91-111.spider.yandex.com
+0 1 1 9739 1 1536038318
+/
+crawl-66-249-75-130.googlebot.com
+0 17 14 1126784 1 1535898684
+/
+ec2-18-223-239-13.us-east-2.compute.amazonaws.com
+0 1 1 9739 1 1537350660
+/
+census12.shodan.io
+0 5 2 478411 1 1537258564
+/
+crawl-66-249-69-236.googlebot.com
+0 6 3 339705 1 1535791901
+/
+msnbot-157-55-39-254.search.msn.com
+0 7 7 68173 7 1536261029
+/
+115.28.185.152
+0 1 0 155923 1 1537671488
+-
+crawl-66-249-64-77.googlebot.com
+0 2 1 166731 1 1537418008
+/
+178-154-244-183.spider.yandex.com
+0 2 0 312292 0 0
+-
+ec2-52-41-211-72.us-west-2.compute.amazonaws.com
+0 8 8 77912 8 1537598564
+/
+167.99.182.142
+0 2 2 0 1 1537505112
+/
+93-158-161-200.spider.yandex.com
+0 2 1 166383 1 1537704411
+/
+ip127.ip-54-36-150.eu
+0 5 0 779680 0 0
+-
+crawl-66-249-69-84.googlebot.com
+0 7 4 509068 4 1536387207
+/
+crawl-66-249-69-109.googlebot.com
+0 5 4 229919 2 1536624591
+/
+209.17.97.10
+0 2 2 19478 2 1537544011
+/
+msnbot-207-46-13-110.search.msn.com
+0 1 1 9739 1 1535839892
+/
+sh-chi-us-gp1-wk114.internet-census.org
+0 1 1 9739 1 1537664317
+/
+ec2-52-34-24-33.us-west-2.compute.amazonaws.com
+0 8 8 77912 8 1537768273
+/
+crawl-66-249-69-107.googlebot.com
+0 4 2 328077 1 1536347119
+/
+msnbot-157-55-39-181.search.msn.com
+0 2 2 19478 2 1536443185
+/
+msnbot-207-46-13-169.search.msn.com
+0 1 1 9739 1 1536069523
+/
+msnbot-157-55-39-46.search.msn.com
+0 7 7 68173 7 1537743921
+/
+crawl-66-249-79-13.googlebot.com
+0 5 3 600604 2 1537666473
+/
+crawl-66-249-66-65.googlebot.com
+0 1 1 9739 1 1536902399
+/
+ip234.ip-54-36-148.eu
+0 1 1 9739 1 1537333259
+/
+crawl-66-249-64-148.googlebot.com
+0 2 1 166455 1 1537101987
+/
+141-8-144-12.spider.yandex.com
+0 37 20 2885803 15 1537590855
+/
+crawl-66-249-69-151.googlebot.com
+0 1 1 9739 1 1536875980
+/
+93-158-161-87.spider.yandex.com
+0 1 0 156632 0 0
+-
+100-43-81-127.spider.yandex.com
+0 1 0 156632 0 0
+-
+101-57-84-80.rackcentre.redstation.net.uk
+0 1 1 23849 1 1537482231
+/
+93-57-84-80.rackcentre.redstation.net.uk
+0 1 1 23849 1 1537482222
+/
+ns3081811.ip-91-121-116.eu
+0 2 1 165519 1 1535924741
+/
+crawl-66-249-69-82.googlebot.com
+0 11 9 472515 2 1536717306
+/
+msnbot-157-55-39-133.search.msn.com
+0 12 0 1829892 0 0
+-
+209.17.96.242
+0 2 2 19478 2 1537268071
+/
+sh-phx-us-gp1-wk115.internet-census.org
+0 1 1 9739 1 1537762652
+/
+crawl-66-249-75-91.googlebot.com
+0 2 1 166731 1 1536810363
+/
+crawl-66-249-69-80.googlebot.com
+0 9 7 671650 5 1536765524
+/
+ec2-13-57-233-99.us-west-1.compute.amazonaws.com
+0 8 8 77912 8 1537723296
+/
+ip12.ip-54-36-148.eu
+0 1 0 157450 1 1537537859
+-
+crawl-66-249-79-176.googlebot.com
+0 2 1 166455 1 1537775679
+/
+cary03.sonosonet.com
+0 1 1 6450 1 1537136463
+/short-term-health-insurance
+help.mylilliputkids.biz
+0 1 0 322 1 1535951309
+/
+209.17.96.18
+0 3 3 29217 3 1536316259
+/
+msnbot-157-55-39-224.search.msn.com
+0 1 1 9739 1 1536567147
+/
+msnbot-207-46-13-13.search.msn.com
+0 1 1 267154 0 0
+-
+209.17.97.18
+0 1 1 9739 1 1536337229
+/
+msnbot-207-46-13-53.search.msn.com
+0 1 1 9739 1 1536519870
+/
+crawl-66-249-79-178.googlebot.com
+0 5 3 375315 2 1537744288
+/
+ip4-94-228-214-100.rdns.netrouting.net
+0 3 1 321318 1 1537620421
+-
+209.17.96.82
+0 1 1 9739 1 1537188860
+/
+159.65.43.241
+0 1 1 9739 1 1536465226
+/
+crawl-66-249-69-111.googlebot.com
+0 9 5 730348 4 1536685137
+/
+crawl-66-249-69-234.googlebot.com
+0 6 4 355591 3 1536069394
+/
+77-88-5-50.spider.yandex.com
+0 6 3 504352 2 1536843308
+/
+209.17.96.170
+0 1 1 9739 1 1537514317
+/
+crawl-66-249-79-15.googlebot.com
+0 1 1 11628 0 0
+-
+sh-ams-nl-gp1-wk104.internet-census.org
+0 1 1 9739 1 1537660961
+/
+37-9-87-191.spider.yandex.com
+0 4 2 332694 2 1537062575
+/
+159.89.41.128
+0 1 1 9739 1 1536465824
+/
+msnbot-157-55-39-228.search.msn.com
+0 4 4 120113 0 0
+-
+msnbot-207-46-13-234.search.msn.com
+0 2 2 19478 2 1535978694
+/
+msnbot-157-55-39-31.search.msn.com
+0 1 1 9739 1 1536532549
+/
+47.93.200.28
+0 3 1 321234 1 1537645942
+-
+crawl-66-249-79-182.googlebot.com
+0 1 0 156716 0 0
+-
+91.242.162.76
+0 2 1 168578 1 1537426177
+/application
+5-255-250-76.spider.yandex.com
+0 1 0 156620 0 0
+-
+msnbot-157-55-39-156.search.msn.com
+0 1 1 9739 1 1535827282
+/
+crawl-66-249-64-205.googlebot.com
+0 1 0 157004 0 0
+-
+static.99.119.76.144.clients.your-server.de
+0 2 1 165519 1 1536157765
+/
+msnbot-157-55-39-248.search.msn.com
+0 6 6 94581 4 1536036426
+/
+5-255-250-102.spider.yandex.com
+0 4 3 185849 3 1536785585
+/
+crawl-66-249-79-180.googlebot.com
+0 2 2 19478 2 1537655656
+/
+crawl-66-249-69-154.googlebot.com
+0 2 1 199121 0 0
+-
+crawl-66-249-66-95.googlebot.com
+0 1 0 156992 0 0
+-
+91.242.162.39
+0 5 3 342576 3 1537468108
+/
+118.89.17.205
+0 1 0 155911 1 1537678904
+-
+msnbot-157-55-39-28.search.msn.com
+0 20 0 3049508 0 0
+-
+crawl-66-249-64-207.googlebot.com
+0 1 0 157004 0 0
+-
+182.61.52.29
+0 3 1 321270 1 1537659811
+-
+crawl-66-249-75-132.googlebot.com
+0 14 12 515659 4 1536069390
+/
+crawl-66-249-79-11.googlebot.com
+0 5 5 105709 1 1537560567
+/
+crawl-66-249-69-238.googlebot.com
+0 4 4 135300 1 1535976828
+/
+researchscan20.comsys.rwth-aachen.de
+0 1 1 9739 1 1536874008
+/
+209.17.96.114
+0 3 3 29217 3 1537554606
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ec2-52-34-24-33.us-west-2.compute.amazonaws.com
+0 1 1 9739 1 1537768273
+/
+sh-phx-us-gp1-wk115.internet-census.org
+0 1 1 9739 1 1537762652
+/
+crawl-66-249-79-176.googlebot.com
+0 1 1 9739 1 1537775679
+/
+crawl-66-249-79-178.googlebot.com
+0 1 1 42405 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://medicalinsurance.org/
+0 49
+https://www.medicalinsurance.org/
+0 14
+http://medicalinsurance.org/
+0 4
+- (Direct Request)
+0 431
+http://medicalinsurance.org
+0 2
+http://www.medicalinsurance.org/
+0 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 18
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 20
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 70
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 116
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 12
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12sns; +http://researchscan.comsys.rwth-aachen.de)
+0 4
+python-requests/2.10.0
+0 2
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t13rl; +http://researchscan.comsys.rwth-aachen.de)
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:60.0.1) Gecko/20100101 Firefox/60.0.1
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+0 9
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)             Chrome/66.0.3359.181 Safari/537.
+0 24
+Python/3.6 aiohttp/3.4.0
+0 3
+Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12ca; +http://researchscan.comsys.rwth-aachen.de)
+0 2
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 89
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 83
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.50 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Qwantify/2.4w; +https://www.qwant.com/)/2.4w
+0 9
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2309.372 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64)AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
